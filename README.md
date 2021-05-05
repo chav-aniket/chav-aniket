@@ -10,4 +10,4 @@ My name is Aniket Chavan and I'm currently a Final Year Computer Science student
 - 📫 How to reach me: aniket.chavan360@gmail.com
 
 <img height="20" src="https://img.icons8.com/color/452/graphql.png" />
-<svg height="20" src="https://simpleicons.org/icons/gatsby.svg" />
+<img height="20" src="https://simpleicons.org/icons/gatsby.svg" />
