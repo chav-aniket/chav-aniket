@@ -8,6 +8,3 @@ My name is Aniket Chavan and I'm currently a Final Year Computer Science student
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
 - 📫 How to reach me: aniket.chavan360@gmail.com
-
-<img height="20" src="https://img.icons8.com/color/452/graphql.png" />
-<img height="20" src="https://simpleicons.org/icons/gatsby.svg" />
