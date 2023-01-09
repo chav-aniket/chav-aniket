@@ -7,4 +7,3 @@ I have a deep curiosity for how to solve the problems we are surrounded with, an
 - 👯 I’m looking to collaborate on anything cool 😻
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
-- 📫 How to reach me: aniket.chavan360@gmail.com
